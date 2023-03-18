@@ -1,0 +1,85 @@
+.tophead{
+    background-color: #161616;
+    color: white;
+    display: flex;
+    padding-left:35px;
+}
+.button{
+    margin-left:200px;
+}
+.welcome{
+    background-image: url("images/9.jpg");
+    background-size: 450px;
+    height: 600px;
+    opacity: 60%;
+    color: rgb(255, 255, 255);
+}
+.welcome div{
+    text-align: center;
+    padding-top: 480px;
+    
+}
+.welcome h1{
+    text-align: center;
+    margin-top: 5PX;
+    
+}
+.atcl{
+    color: white;
+}
+.fruit{
+    padding-top: 50px;
+    padding-left: 30px;
+    
+}
+.fruit span{
+    color:rgb(223, 79, 79);
+}
+.fruit img{
+    height: 180px;
+}
+body{
+    background-color: #181613e7;
+}
+
+.cookie{
+    text-align: center;
+}
+.cookie img{
+    height: 180px;
+}
+.cookie span{
+    color: #d48700;
+}
+.roasting {
+    padding-top: 50px;
+    text-align: right;
+}
+.roasting span{
+    color: #974e23;
+}
+.roasting img{
+    height: 250px;
+}
+.place{
+    background-image: url("images/b14-2.jpg");
+    background-size: 700px;
+    height: 220px;
+    text-align: center;
+    padding-top: 190px;
+}
+.goodplace p{
+    text-align: center;
+    padding-top: 30px;
+}
+footer{
+    background-color: rgb(98, 102, 105);
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    
+}
+footer div{
+    padding-top: 10px;
+}
