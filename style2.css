@@ -4,15 +4,19 @@
     display: flex;
     padding-left:35px;
 }
-.button{
-    margin-left:200px;
+.tophead img{
+    padding-left: 55%;
+    padding-top: 6%;
+    height: 30px;
+
 }
 .welcome{
-    background-image: url("images/9.jpg");
-    background-size: 450px;
-    height: 600px;
-    opacity: 60%;
-    color: rgb(255, 255, 255);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/9.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color : white;
+    padding-bottom: 10px;
 }
 .welcome div{
     text-align: center;
@@ -59,14 +63,18 @@ body{
     color: #974e23;
 }
 .roasting img{
-    height: 250px;
+    height: 150px;
 }
 .place{
-    background-image: url("images/b14-2.jpg");
-    background-size: 700px;
-    height: 220px;
+    height: 200px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/b14.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     text-align: center;
-    padding-top: 190px;
+  
+    padding-top: 180px;
+ 
 }
 .goodplace p{
     text-align: center;
@@ -82,4 +90,14 @@ footer{
 }
 footer div{
     padding-top: 10px;
+}
+.box{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: white;
+    width: 150px;
+    margin-left: 32%;
+    border-width: 4px;
+    height: 30px;
+
 }
